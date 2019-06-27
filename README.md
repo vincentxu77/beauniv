@@ -21,7 +21,7 @@ Design and Implementation of University       Photo-sharing and Friend-making   
 
 ![动态信息流](https://github.com/vincentxu77/beauniv/raw/master/runningImg/%E5%8A%A8%E6%80%81%E4%BF%A1%E6%81%AF%E6%B5%81.png)<br>
 
-![点击查看大图](https://github.com/vincentxu77/beauniv/raw/master/runningImg/%E5%8A%A8%E6%80%81%E4%BF%A1%E6%81%AF%E6%B5%81.png)<br>
+![点击查看大图](https://github.com/vincentxu77/beauniv/blob/master/runningImg/%E7%82%B9%E5%87%BB%E6%9F%A5%E7%9C%8B%E5%A4%A7%E5%9B%BE.png)<br>
 
 ![社交相关](https://github.com/vincentxu77/beauniv/raw/master/runningImg/%E7%A4%BE%E4%BA%A4%E7%9B%B8%E5%85%B3.png)<br>
 
