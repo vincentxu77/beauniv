@@ -10,9 +10,9 @@ Design and Implementation of University       Photo-sharing and Friend-making   
 
 可以cd进入client文件夹，使用npm run serve 再开启一个端口
 
-使用了'WS'完成websocket的即时通训
+使用了'WS'完成websocket的即时通讯
 
 使用better-scroll完成上拉刷新和下拉加载
 
-使用jsonwebtoken 和 passport等实现Token
+使用jsonwebtoken 和 passport等实现身份验证
 
