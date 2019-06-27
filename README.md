@@ -17,8 +17,7 @@ Design and Implementation of University       Photo-sharing and Friend-making   
 使用jsonwebtoken 和 passport等实现身份验证
 
 功能实现图：
-![下来刷新]
-(https://github.com/vincentxu77/beauniv/raw/master/runningImg/%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0.png)
+![下拉刷新](https://github.com/vincentxu77/beauniv/raw/master/runningImg/%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0.png)
 
 ![动态信息流]
 (https://github.com/vincentxu77/beauniv/raw/master/runningImg/%E5%8A%A8%E6%80%81%E4%BF%A1%E6%81%AF%E6%B5%81.png)
