@@ -12,7 +12,7 @@
     "better-scroll": "^1.15.2",
     "bootstrap": "^4.3.1",
     "img-vuer": "^0.17.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "popper.js": "^1.15.0",
     "v-viewer": "^1.4.0",
