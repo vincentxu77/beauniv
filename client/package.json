@@ -8,7 +8,7 @@
     "start": "npm run serve"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "better-scroll": "^1.15.2",
     "bootstrap": "^4.3.1",
     "img-vuer": "^0.17.2",
